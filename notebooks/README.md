@@ -1,4 +1,4 @@
-# Graph Classification Pipelines (GIN, Graph2Vec, NetLSD)
+# classification.ipynb: Graph Classification Pipelines (GIN, Graph2Vec, NetLSD)
 
 This notebook implements three graph classification pipelines on **TUDataset** benchmarks:
 
